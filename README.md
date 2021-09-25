@@ -1,2 +1,4 @@
-**/node_modules/*
-test-init.js
+module.exports = {
+    sum() {
+    }
+  };
